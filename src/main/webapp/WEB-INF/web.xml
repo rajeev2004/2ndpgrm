@@ -2,6 +2,6 @@
 <groupId>org.apache.maven.plugins</groupId>
 <artifactId>maven-war-plugin</artifactId>
 <configuration>
-<webXml>src\main\webapp\index.html</webXml>
+<webXml>src\main\webapp\index.jsp</webXml>
 </configuration>
 </plugin>
